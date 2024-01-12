@@ -1,23 +1,23 @@
-<h2 align="center">Hello, <a href="https://github.com/alex-dishen" 
+<h2 align="center">Hello, <a href="https://github.com/SaleemLawal" 
   title="Profile">I'm Saleem</a>👋</h2>
 <br>
 <p align="center">
-  I'm a 22 years old Software Engineer based in Ukraine.<br>
-  I enjoy being given challenging, visually-pleasing designs and making them a reality. <br>
-  The thing that excites me, and gets me pumped up <br>
-  is the process of tearing an idea down into its smallest components, <br> 
-  learning, and figuring out how to put those pieces together<br>
-  while creating something really awesome.
+  I'm a Current Student at the University of Maryland<br>
+  Welcome to my digital space! Currently immersed in the dynamic world of computer science at the University of Maryland <br>
+  I am a fervent student with a major goal—to become a software engineer. 
+  Passionate about crafting innovative solutions, my academic journey is a blend of coding challenges, algorithmic pursuits, and a relentless drive to contribute to the ever-evolving tech landscape.<br>
+  Beyond the screen, I'm an enthusiast exploring the intersections of technology and creativity.<br>
+  Join me on this exciting adventure where each line of code is a step towards transforming aspirations into reality. Welcome to my coding odyssey!<br>
  <br>
  <br>
   📫 How to reach me:
 </p>
 
 <div align='center'>
-  <a href="https://www.linkedin.com/in/alex-dishen/"> 
+  <a href="https://www.linkedin.com/in/saleem-lawal-146783260/"> 
     <img src="icons/linkedin.svg" alt="LinkedIn" height="25" width='25' />
   </a>
-  <a href="mailto: didyshen.oleksandr@gmail.com"> 
+  <a href="mailto: slawal1@umbc.edu"> 
     <img src="icons/gmail.svg" alt="Gmail" height="25" width='25' />
   </a>
 </div>
