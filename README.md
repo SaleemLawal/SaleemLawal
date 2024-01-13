@@ -116,20 +116,130 @@
 
 <table>
   <tr>
+    <!-- Restaurant-Page -->
     <td width='50%'>
-      <h2 align='center'>Chronous Landing</h2>
+      <h2 align='center'>Restaurant Page</h2>
       <div align='center'>  
-        <a href='https://chronous.midstem.net'>
-          <img src='img/chronous-landing.png' alt='Chronous'/>
+        <a href='https://saleemlawal.github.io/Restaurant-Page/'>
+          <img src='img/restaurant-app.png' alt='Restaurant-App'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://chronous.midstem.net'>
+          <a href='https://github.com/SaleemLawal/Restaurant-Page'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://saleemlawal.github.io/Restaurant-Page/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>React, TypeScript, Next.js, Styled-Components</strong></p>
+        <p><strong>Html, CSS, JS, WebPack</strong></p>
+      </div>
+    </td>
+     <!-- Tic Tac Toe -->
+    <td width='50%'>
+      <h2 align='center'>Tic-Tac-Toe</h2>
+      <div align='center'>  
+        <a href='https://github.com/SaleemLawal/Tic-Tac-Toe'>
+          <img src='img/tic-tac-toe.png' alt='Tic-Tac-Toe'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/SaleemLawal/Tic-Tac-Toe'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://saleemlawal.github.io/Tic-Tac-Toe/'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>Html, CSS, JS</strong></p>
+      </div>
+    </td>
+  </tr>
+  <!-- New Row -->
+    <tr>
+    <!-- Library App -->
+    <td width='50%'>
+      <h2 align='center'>Library App</h2>
+      <div align='center'>  
+        <a href='https://github.com/SaleemLawal/Library-App'>
+          <img src='img/Library.png' alt='Library App'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/SaleemLawal/Library-App'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://saleemlawal.github.io/Library-App/'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>Html, CSS, JS</strong></p>
+      </div>
+    </td>
+     <!-- Rock Paper Sccissors -->
+    <td width='50%'>
+      <h2 align='center'>Rock-Paper-Scissors</h2>
+      <div align='center'>  
+        <a href='https://github.com/SaleemLawal/Rock-Paper-Scissors'>
+          <img src='img/rock-paper-scissors.png' alt='Rock-Paper-Scissors/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/SaleemLawal/Rock-Paper-Scissors'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://github.com/SaleemLawal/Rock-Paper-Scissors'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>Html, CSS, JS</strong></p>
+      </div>
+    </td>
+  </tr>
+    <!-- New Row -->
+    <tr>
+    <!-- Etch-A-Sketch -->
+    <td width='50%'>
+      <h2 align='center'>Etch-A-Sketch</h2>
+      <div align='center'>  
+        <a href='https://github.com/SaleemLawal/Etch-a-Sketch'>
+          <img src='img/etch-a-sketch.png' alt='Etch-A-Sketch'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/SaleemLawal/Etch-a-Sketch'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://saleemlawal.github.io/Etch-a-Sketch/'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>Html, CSS, JS</strong></p>
+      </div>
+    </td>
+     <!-- Calculator -->
+    <td width='50%'>
+      <h2 align='center'>Calculator</h2>
+      <div align='center'>  
+        <a href='https://github.com/SaleemLawal/calculator'>
+          <img src='img/calculator.png' alt='Calculator/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/SaleemLawal/calculator'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://saleemlawal.github.io/calculator/'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>Html, CSS, JS</strong></p>
       </div>
     </td>
   </tr>
