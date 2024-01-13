@@ -79,7 +79,7 @@
       <br/>C++
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/Java.svg" alt="Java" width="40" height="40"/>
+      <img src="icons/java.svg" alt="Java" width="40" height="40"/>
       <br/>Java
     </td>
   </tr>
