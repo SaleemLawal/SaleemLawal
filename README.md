@@ -21,15 +21,6 @@
     <img src="icons/gmail.svg" alt="Gmail" height="25" width='25' />
   </a>
 </div>
-<br>
-
-<p align="center">✍️ My blog:</p>
-
-<div align='center'>
-  <a href='https://medium.com/@oleksandrdidyshen'>
-    <img src="icons/medium.svg" alt="LinkedIn" height="45" width='150' />
-  </a>
-</div>
 
 <h1 align="center">🚀 Languages & Tools</h1>
 
@@ -53,50 +44,43 @@
       <img src="icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
       <br/>TypeScript
     </td>
+  </tr>
+  <tr>
     <td align="center" height="70" width="70">
       <img src="icons/react.svg" alt="React" width="40" height="40"/>
       <br/>React
     </td>
-  </tr>
-  <tr>
     <td align="center" height="70" width="70">
-      <img src="icons/next.svg" alt="React" width="40" height="40"/>
+      <img src="icons/next.svg" alt="Next.js" width="40" height="40"/>
       <br/>Next.js
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/react.svg" alt="React" width="40" height="40"/>
-      <br/>React Native
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/redux.svg" alt="Redux" width="40" height="40"/>
-      <br/>Redux
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/styled-components.svg" alt="Styled Components" height="40"/>
-      <br/>Styled Components
     </td>
     <td align="center" height="70" width="70">
       <img src="icons/sass.svg" alt="SASS" width="40" height="40"/>
       <br/>SASS
     </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
+      <br/>Bootstrap
+    </td>
   </tr>
 </table>
 
-<h3 align='center'>👷🏻 Beck End</h3>
+
+<h3 align='center'>👷🏻 Back End</h3>
 
 <table align="center">
   <tr>
     <td align="center" height="70" width="70">
-      <img src="icons/nest.svg" alt="Nest.js" width="40" height="40"/>
-      <br/>Nest.js
+      <img src="icons/python.svg" alt="Python" width="40" height="40"/>
+      <br/>Python
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/prisma.svg" alt="Prisma" width="40" height="40"/>
-      <br/>Prisma
+      <img src="icons/cplusplus.svg" alt="C++" width="40" height="40"/>
+      <br/>C++
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/postgres.svg" alt="PostgreSQL" width="40" height="40"/>
-      <br/>PostgreSQL
+      <img src="icons/Java.svg" alt="Java" width="40" height="40"/>
+      <br/>Java
     </td>
   </tr>
 </table>
@@ -114,10 +98,6 @@
       <br/>Vite
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/aws.svg" alt="GitLab" width="40" height="40"/>
-      <br/>AWS
-    </td>
-    <td align="center" height="70" width="70">
       <img src="icons/figma.svg" alt="Figma" width="40" height="40"/>
       <br/>Figma
     </td>
@@ -132,7 +112,6 @@
 
 <table>
   <tr>
-    <!-- <td width='50%'></td> -->
      <td width='50%' colspan=2>
       <h2 align='center'>Game Harbor</h2>
       <div align='center'>  
