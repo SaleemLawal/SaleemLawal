@@ -50,14 +50,14 @@
       <img src="icons/react.svg" alt="React" width="40" height="40"/>
       <br/>React
     </td>
-    <td align="center" height="70" width="70">
+<!--     <td align="center" height="70" width="70">
       <img src="icons/next.svg" alt="Next.js" width="40" height="40"/>
       <br/>Next.js
     </td>
     <td align="center" height="70" width="70">
       <img src="icons/sass.svg" alt="SASS" width="40" height="40"/>
       <br/>SASS
-    </td>
+    </td> -->
     <td align="center" height="70" width="70">
       <img src="icons/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
       <br/>Bootstrap
