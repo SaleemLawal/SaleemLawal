@@ -116,26 +116,6 @@
 
 <table>
   <tr>
-    <!-- Restaurant-Page -->
-    <td width='50%'>
-      <h2 align='center'>Restaurant Page</h2>
-      <div align='center'>  
-        <a href='https://saleemlawal.github.io/Restaurant-Page/'>
-          <img src='img/restaurant-app.png' alt='Restaurant-App'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href='https://github.com/SaleemLawal/Restaurant-Page'>
-            <img src="icons/repo.svg"/>
-          </a>
-          <a href='https://saleemlawal.github.io/Restaurant-Page/'>
-            <img src='icons/live.svg'/>
-          </a>
-        </p>
-        <p><strong>Html, CSS, JS, WebPack</strong></p>
-      </div>
-    </td>
      <!-- Tic Tac Toe -->
     <td width='50%'>
       <h2 align='center'>Tic-Tac-Toe</h2>
